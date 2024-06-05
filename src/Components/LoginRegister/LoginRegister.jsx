@@ -19,13 +19,10 @@ import { FaUser, FaLock } from "react-icons/fa";
                 </div>
                 <div className="Remember">
                     <label><input type="checkbox"/>Remember me</label>
-                </div>
-                <div className="loginButton">
-                    <button type="submit">Login</button>
-                </div>
-                <div className="forgot">
                     <a href="#">Forgot Password?</a>
                 </div>
+                    <button type="submit">Login</button>
+                    
                 <div className="Register">
                     <p>Not a member?<a href="#">Register here</a></p>
                 </div>
